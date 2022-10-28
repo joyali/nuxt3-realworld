@@ -1,3 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
 node_modules
 *.log*
 .nuxt
@@ -6,3 +7,9 @@ node_modules
 .output
 .env
 dist
+# Serverless directories
+.serverless
+# IDE / Editor
+.idea
+# macOS
+.DS_Store
